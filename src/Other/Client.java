@@ -1,3 +1,7 @@
+package Other;
+
+import Other.Bank;
+
 public class Client extends Thread {
     Bank bank;
 
