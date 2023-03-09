@@ -5,11 +5,11 @@ public class Main {
 
         Pizzeria pizzeria = new Pizzeria();
         pizzeria.order("Margarita");
-        Thread.sleep(100);
+        Thread.sleep(500);
         pizzeria.order("Pepperoni");
-        Thread.sleep(100);
+        Thread.sleep(500);
         pizzeria.order("Sicilian");
-        Thread.sleep(100);
+        Thread.sleep(500);
         pizzeria.order("Greek");
 
     }
